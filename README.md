@@ -6,6 +6,7 @@
 Requirements:
 
 **Python 3**
+**Google Chrome**
 
 How to use
 
