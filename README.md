@@ -1,5 +1,8 @@
 # VirusTotal-with-Selenium-Automation
 
+***** YOU DO NOT NEED API KEY *****
+
+
 Requirements:
 
 **Python 3**
