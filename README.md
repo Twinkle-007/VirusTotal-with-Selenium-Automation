@@ -1,4 +1,4 @@
-# VirusTotal-with-Selenium-Automation
+# VirusTotal with elenium utomation
 
 ***** YOU DO NOT NEED API KEY *****
 
