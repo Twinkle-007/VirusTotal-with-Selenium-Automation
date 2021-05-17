@@ -5,11 +5,11 @@
 
 Requirements:
 
-**Python 3**
+**1) Python 3**
 
-**Google Chrome**
+**2) Google Chrome**
 
-How to use
+***** How to use *****
 
 Step 1: Download the latest stable release of Chromedriver and put it in to "**VT-Automation**" directory
 
