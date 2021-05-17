@@ -9,7 +9,7 @@ Requirements:
 
 **2) Google Chrome**
 
-***** How to use *****
+*How to use
 
 Step 1: Download the latest stable release of Chromedriver and put it in to "**VT-Automation**" directory
 
